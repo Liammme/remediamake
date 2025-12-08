@@ -341,7 +341,7 @@ const styles: Record<string, React.CSSProperties> = {
     cursor: 'pointer',
     transition: 'all 0.2s',
   },
- linkBar: {
+  linkBar: {
     backgroundColor: '#f9f9f9',
     borderBottom: '1px solid #eee',
     padding: '10px 30px',
@@ -488,7 +488,7 @@ const styles: Record<string, React.CSSProperties> = {
     minHeight: '150px',
     padding: '12px',
     backgroundColor: '#fafafa',
-    border: '1px solid '#eee',
+    border: '1px solid #eee',
     borderRadius: '6px',
     fontSize: '14px',
     lineHeight: '1.6',
