@@ -341,9 +341,9 @@ const styles: Record<string, React.CSSProperties> = {
     cursor: 'pointer',
     transition: 'all 0.2s',
   },
-  linkBar: {
+ linkBar: {
     backgroundColor: '#f9f9f9',
-    borderBottom: '1px solid '#eee',
+    borderBottom: '1px solid #eee',
     padding: '10px 30px',
     display: 'flex',
     flexWrap: 'wrap',
